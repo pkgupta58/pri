@@ -1,4 +1,4 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
 <document xmlns="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" producer="ABBYY FineReader Engine 12" languages="" xsi:schemaLocation="http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml http://www.abbyy.com/FineReader_xml/FineReader10-schema-v1.xml">
 <page width="2480" height="3508" resolution="300" originalCoords="1">
 <block blockType="Text" blockName="" l="418" t="332" r="1999" b="446">
